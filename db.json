@@ -1,50 +1,97 @@
-{
- 
-  "usuarios": [
-    {
-      "id": 1,
-      "title": "Post 1",
-     "nome":"ANA"
-    },
-    {
-      "id": 2,
-      "title": "Post 2",
-     "nome":"JOAO"
-    },
-    {
-      "id": 3,
-      "title": "Post 3",
-     "nome":"CADU"
-    },
-    {
-      "id": 4,
-      "title": "Post 4",
-     "nome":"BEATRIZ"
-    },
-    {
-      "id": 5,
-      "title": "Post 5",
-     "nome":"DRI"
-    },
-    {
-      "id": 6,
-      "title": "Post 6",
-     "nome":"KALEB"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[
+ {
+  "nome": "KALEB",
+  "id": "1",
+  "sobrenome": "FERREIRA",
+  "email": "KLB@KLB",
+  "contato": "(38) 91919-1919",
+  "nascimento": "05/10/2021",
+  "cpf": "123.123.123-12",
+  "numero": "34",
+  "cep": "39.404-404",
+  "rua": "Rua B",
+  "bairro": "Santos Dumont",
+  "cidade": "Montes Claros",
+  "estado": "MG",
+  "login": "KLB",
+  "perfil": "ADMINISTRADOR",
+  "senha": "123",
+  "senhaRep": "123"
+ },
+ {
+  "nome": "KALEB",
+  "id": "2",
+  "sobrenome": "FERREIRA2",
+  "email": "KLB@KLB",
+  "contato": "(38) 91919-1919",
+  "nascimento": "05/10/2021",
+  "cpf": "123.123.123-12",
+  "numero": "34",
+  "cep": "39.404-404",
+  "rua": "Rua B",
+  "bairro": "Santos Dumont",
+  "cidade": "Montes Claros",
+  "estado": "MG",
+  "login": "KLB2",
+  "perfil": "ADMINISTRADOR",
+  "senha": "456",
+  "senhaRep": "456"
+ },
+ {
+  "nome": "ADRIANA",
+  "id": "3",
+  "sobrenome": "FERREIRA NASCIMENTO",
+  "email": "DRI@DRI",
+  "contato": "(38) 99967-1643",
+  "nascimento": "22/09/1996",
+  "cpf": "098.765.432-11",
+  "numero": "489",
+  "cep": "39.404-404",
+  "rua": "Rua B",
+  "bairro": "Santos Dumont",
+  "cidade": "Montes Claros",
+  "estado": "MG",
+  "login": "DRI",
+  "perfil": "ADMINISTRADOR",
+  "senha": "345",
+  "senhaRep": "345"
+ },
+ {
+  "nome": "HUMBERTO",
+  "id": "4",
+  "sobrenome": "SILVA FERREIRA",
+  "email": "BETHO@BTH",
+  "contato": "(38) 99202-3372",
+  "nascimento": "20/11/1982",
+  "cpf": "564.738.291-01",
+  "numero": "489",
+  "cep": "39.404-404",
+  "rua": "Rua B",
+  "bairro": "Santos Dumont",
+  "cidade": "Montes Claros",
+  "estado": "MG",
+  "login": "BTH",
+  "perfil": "ADMINISTRADOR",
+  "senha": "456",
+  "senhaRep": "456"
+ },
+ {
+  "nome": "ADRIANA",
+  "id": "5",
+  "sobrenome": "GONÇALVES",
+  "email": "DRIA@DRI",
+  "contato": "(39) 98834-5675",
+  "nascimento": "20/12/1999",
+  "cpf": "546.372.819-01",
+  "numero": "12",
+  "cep": "39.400-303",
+  "rua": "Rua Coronel Antônio Durães",
+  "bairro": "Alto São João",
+  "cidade": "Montes Claros",
+  "estado": "MG",
+  "login": "DRI",
+  "perfil": "ADMINISTRADOR",
+  "senha": "098",
+  "senhaRep": "098"
+ }
+]
