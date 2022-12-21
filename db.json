@@ -1,23 +1,6 @@
 {
-  "usuarios":[
-     {
-      "id": 1,
-      "title": "Post 1",
-       "nome": "ANA"
-    },
-    {
-      "id": 2,
-      "title": "Post 2",
-       "nome": "BIA"
-    },
-    {
-      "id": 3,
-      "title": "Post 3"
-       "nome": "CARLA"
-    }
-  
-  ],
-  "posts": [
+ 
+  "usuarios": [
     {
       "id": 1,
       "title": "Post 1"
